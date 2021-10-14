@@ -14,4 +14,4 @@ Many Changes are being made here
 
 ## Pokemon Change
 
-Palkia is Amazing
+Palkia is terrible
