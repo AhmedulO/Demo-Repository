@@ -1,0 +1,163 @@
+[33mcommit 8191159f8565d09ffad877f1757338cd3c6009ae[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: db6e464 cd46f6a
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Wed Oct 13 22:58:51 2021 -0400
+
+    Merge branch 'feature-readme-instructions'
+
+[33mcommit cd46f6a61167c5ee56f0958f82a46fefe9b06643[m[33m ([m[1;31morigin/feature-readme-instructions[m[33m, [m[1;32mfeature-readme-instructions[m[33m)[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Wed Oct 13 22:57:53 2021 -0400
+
+    Text has been added to index.html with h3 format
+
+[33mcommit db6e464d11c0555adbe08883f27d50bf9bd39ce6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Wed Oct 13 22:55:04 2021 -0400
+
+    We added Palkia Text
+
+[33mcommit 23451cbdbb3ee8603b8aaaf316f74070f89921fe[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Thu Sep 16 22:45:19 2021 -0400
+
+    change
+
+[33mcommit a7b7536a18b12f1e3fd3a09ee47c94bbf84767f0[m
+Merge: 2eb57b9 b9c44c6
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Thu Sep 16 22:43:28 2021 -0400
+
+    Merge branch 'main' into feature-readme-instructions
+
+[33mcommit b9c44c60f783df5e71dca9479cbc6c60453e7b1b[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Thu Sep 16 22:41:13 2021 -0400
+
+    Update index.html
+
+[33mcommit 2eb57b9fd06aee8272613013cc1967a843836b51[m
+Merge: bb74746 dc51fa2
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Thu Sep 16 22:40:45 2021 -0400
+
+    Merge branch 'main' into feature-readme-instructions
+
+[33mcommit bb74746bfceb5ecb99cf6221c05531d002618648[m
+Merge: a2da6c2 e982917
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Thu Sep 16 22:39:18 2021 -0400
+
+    change made
+
+[33mcommit dc51fa2811c81546ae73ec1985a3a48b30a29252[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Thu Sep 16 22:37:02 2021 -0400
+
+    Update index.html
+
+[33mcommit a2da6c2759b838d4a3f271ca3a93631aefd0d4d8[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Thu Sep 16 22:36:00 2021 -0400
+
+    Change has been made for branching
+
+[33mcommit e982917da7417d31289810172ae89eb4487b1a1f[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Thu Sep 16 22:32:24 2021 -0400
+
+    change has been made
+
+[33mcommit fe2b4d6f9f4f47264f60628ec2a7a7d35a95fac5[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Wed Sep 15 15:53:12 2021 -0400
+
+    Changes have been made to files
+
+[33mcommit c70a1482fd8ef59ec5fcc9f4e56eff3b0494c004[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Wed Sep 15 15:50:40 2021 -0400
+
+    Text change has been made to index.html
+
+[33mcommit a191d451ad80a941e83ec8461ac99c9499c87bf4[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Sat Sep 11 11:17:14 2021 -0400
+
+    Index.hmtml has been updated
+
+[33mcommit 90e37057150bcd2315e460c6a9df9f504c0d1b38[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Tue Sep 7 23:03:33 2021 -0400
+
+    Added status of job
+
+[33mcommit 921cf46770cf306e7750633ffcfd2755b5c90695[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Tue Sep 7 22:47:52 2021 -0400
+
+    Text Change
+
+[33mcommit 7818e8a883fee66a04668d058015250f77971c33[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Tue Sep 7 15:42:26 2021 -0400
+
+    Update README.md
+
+[33mcommit b6a37e82388b43b039e31b17bb1ed17f2676d15b[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Fri Sep 3 00:47:20 2021 -0400
+
+    Update README.md
+
+[33mcommit 6c754be04eff3291b0930be71e877f2c8cc82190[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Fri Sep 3 00:46:02 2021 -0400
+
+    Tect has been changed
+
+[33mcommit fd1c0a5def3c3cc66c97aa8b9d7bc82975875919[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Fri Sep 3 00:43:17 2021 -0400
+
+    Change in text
+
+[33mcommit 67d4b77d8ed824fce68e2ad497c1b348dc3eaecf[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Fri Sep 3 00:40:02 2021 -0400
+
+    Text Changed
+    
+    We changed the text
+
+[33mcommit e9eb96767fede2b8a72aab6e2e30ed9ff62f73a7[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Fri Sep 3 00:28:54 2021 -0400
+
+    Added Index.html
+    
+    Some Description
+
+[33mcommit 0727590a259e3d7e2f83545431caad982f51e147[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Fri Sep 3 00:13:19 2021 -0400
+
+    Update README.md
+
+[33mcommit 5afd4197a3c5cdeab321c76332c55c593a187584[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Fri Sep 3 00:01:14 2021 -0400
+
+    Update README.md
+
+[33mcommit 42ab6f22d9e992d4707471abd278ead6bf60ccda[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Fri Sep 3 00:00:35 2021 -0400
+
+    Update README.md
+
+[33mcommit b8f776ff2ef11fa8fa0869d18da1ffd75156b07b[m
+Author: Ahmedul Omar <Ahmedul.Omar@gmail.com>
+Date:   Thu Sep 2 23:27:48 2021 -0400
+
+    README.md
