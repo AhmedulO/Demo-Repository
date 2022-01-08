@@ -14,4 +14,4 @@ Many Changes are being made here
 
 ## Pokemon Change
 
-Palkia shines now
+Dazzling Diamond and Shinning Pearl
